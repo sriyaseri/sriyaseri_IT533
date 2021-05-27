@@ -1,2 +1,2 @@
-# sriyaseri_IT533
+# seri_IT533
 this is my first repository
